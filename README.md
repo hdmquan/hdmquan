@@ -21,14 +21,18 @@
 <code>
 git init
 poetry init
+touch .gitignore
+touch README.md
 mkdir data src results weights figures
 cd src
 mkdir models datasets utils notebooks
+touch __init__.py
+touch models/__init__.py 
+touch dataset/__init__.py 
+touch utils/__init__.py
 cd ..
 touch data/raw/.gitkeep 
 touch data/processed/.gitkeep
-touch src/__init__.py 
-touch src/utils/__init__.py
 poetry add torch holoviews pandas numpy loguru
 </code>
 </pre>
