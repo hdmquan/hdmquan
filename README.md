@@ -33,7 +33,7 @@ touch utils/__init__.py
 cd ..
 touch data/raw/.gitkeep 
 touch data/processed/.gitkeep
-poetry add torch holoviews pandas numpy loguru bokeh
+poetry add torch plotly pandas numpy loguru nbformat statsmodels
 </code>
 </pre>
 
