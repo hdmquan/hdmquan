@@ -15,7 +15,7 @@
 </p>
 
 <h2>Project Setup</h2>
-<p>Cuz I'm too lazy to set up cookiecutter than write HTML</p>
+<p>Cuz I'm too lazy to set up cookiecutter than write HTML. And it convenience.</p>
 
 <pre>
 <code>
