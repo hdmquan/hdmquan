@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p>📫 How to reach me <strong>hdmquan@outlook.com</strong></p>
-<p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1GISOfYvoKFmbeK9PdHXdraugFqgg4SGW/view?usp=sharing" target="_blank">resume</a></p>
+<p>📄 Know about my experiences <a href="[https://drive.google.com/file/d/1GISOfYvoKFmbeK9PdHXdraugFqgg4SGW/view?usp=sharing](https://alan-huynh.is-a.dev/assets/images/blog/alan-huynh-resume.pdf)" target="_blank">resume</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
