@@ -9,7 +9,9 @@
 <hr>
 
 <h3 align="left">About Me</h3>
-<p align="left">I'm a <strong>Machine Learning Engineer</strong> based in Melbourne with a passion for automation and solving problems using cutting-edge machine learning techniques. My focus areas are <strong>Geospatial</strong>, <strong>Environmental</strong>, and <strong>Temporal Data</strong>, but I love exploring other field as well, notably Meteorology and Battery :D</p>
+<p align="left">I'm a <strong>Machine Learning Engineer</strong> based in Melbourne who solve problem with data and ML, though most of the time automation is more than enough lol.</p> 
+
+<p>My focus areas are <strong>Geospatial</strong>, <strong>Environmental</strong>, and <strong>Temporal Data</strong>, but I love exploring other field as well, notably Meteorology and Battery :D</p>
 
 <p align="left">I’m always on the lookout for new challenges and opportunities to grow in the tech industry.</p>
 
